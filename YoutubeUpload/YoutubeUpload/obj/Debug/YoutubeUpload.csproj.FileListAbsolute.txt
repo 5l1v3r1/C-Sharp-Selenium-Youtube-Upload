@@ -1,0 +1,12 @@
+C:\Users\omnyvz\Desktop\Github\C-Sharp-Selenium-Youtube-Upload\YoutubeUpload\YoutubeUpload\bin\Debug\YoutubeUpload.exe.config
+C:\Users\omnyvz\Desktop\Github\C-Sharp-Selenium-Youtube-Upload\YoutubeUpload\YoutubeUpload\bin\Debug\YoutubeUpload.exe
+C:\Users\omnyvz\Desktop\Github\C-Sharp-Selenium-Youtube-Upload\YoutubeUpload\YoutubeUpload\bin\Debug\YoutubeUpload.pdb
+C:\Users\omnyvz\Desktop\Github\C-Sharp-Selenium-Youtube-Upload\YoutubeUpload\YoutubeUpload\bin\Debug\WebDriver.dll
+C:\Users\omnyvz\Desktop\Github\C-Sharp-Selenium-Youtube-Upload\YoutubeUpload\YoutubeUpload\bin\Debug\WebDriver.xml
+C:\Users\omnyvz\Desktop\Github\C-Sharp-Selenium-Youtube-Upload\YoutubeUpload\YoutubeUpload\obj\Debug\YoutubeUpload.csprojAssemblyReference.cache
+C:\Users\omnyvz\Desktop\Github\C-Sharp-Selenium-Youtube-Upload\YoutubeUpload\YoutubeUpload\obj\Debug\YoutubeUpload.Form1.resources
+C:\Users\omnyvz\Desktop\Github\C-Sharp-Selenium-Youtube-Upload\YoutubeUpload\YoutubeUpload\obj\Debug\YoutubeUpload.Properties.Resources.resources
+C:\Users\omnyvz\Desktop\Github\C-Sharp-Selenium-Youtube-Upload\YoutubeUpload\YoutubeUpload\obj\Debug\YoutubeUpload.csproj.GenerateResource.cache
+C:\Users\omnyvz\Desktop\Github\C-Sharp-Selenium-Youtube-Upload\YoutubeUpload\YoutubeUpload\obj\Debug\YoutubeUpload.csproj.CopyComplete
+C:\Users\omnyvz\Desktop\Github\C-Sharp-Selenium-Youtube-Upload\YoutubeUpload\YoutubeUpload\obj\Debug\YoutubeUpload.exe
+C:\Users\omnyvz\Desktop\Github\C-Sharp-Selenium-Youtube-Upload\YoutubeUpload\YoutubeUpload\obj\Debug\YoutubeUpload.pdb
